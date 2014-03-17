@@ -1,12 +1,17 @@
 {
   "name": "language-emblem",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "repository": "https://github.com/atom/language-emblem",
+  "description": "Emblem language support for Atom",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghempton/language-emblem.git"
+  },
+  "homepage": "https://github.com/ghempton/language-emblem",
+  "bugs": {
+    "url": "https://github.com/ghempton/language-emblem/issues"
+  },
   "engines": {
     "atom": ">0.50.0"
-  },
-  "dependencies": {
   }
 }
