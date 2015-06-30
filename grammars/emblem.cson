@@ -79,7 +79,7 @@
   {
     'begin': '^\\s*([\\w.#_-]*[\\w]+)\\s*'
     'captures':
-      '0':
+      '1':
         'name': 'entity.name.tag.emblem'
     'end': '$|(?!\\.|#|\\{|\\[|=|-|~|/)'
     'patterns': [
